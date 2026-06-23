@@ -43,3 +43,8 @@ You can easily test and run this logic using SoloLearn, Google Colab, or any loc
 3. Click **Run** to generate the real-time evaluation matrix.
 
 _Developed as an open-source tool for localized digital market analysis in Kurdistan._
+
+
+## Sample Output
+![Output Preview](IMG_0070.png)
+
