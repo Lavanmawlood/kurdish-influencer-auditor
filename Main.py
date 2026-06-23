@@ -1,3 +1,4 @@
+⁠# This class calculates Engagement Rate for influencer
 # Kurdish Influencer Auditor (Kurdistan Market Dynamic Model)
 
 market_data = [
